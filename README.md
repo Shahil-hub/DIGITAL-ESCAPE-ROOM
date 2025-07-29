@@ -123,3 +123,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *Built with ❤️ for the blockchain gaming community*
+##contract Details : 0xa488C6c97b8599258684c679481D9AF4d49c6897
+<img width="1916" height="1143" alt="image" src="https://github.com/user-attachments/assets/207a8df4-e843-4f48-a6b9-31047e857d4f" />
+
